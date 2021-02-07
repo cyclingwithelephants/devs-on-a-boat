@@ -1,4 +1,7 @@
-Hi folks, please excuse the mess this is in right now! I've very much been in the "throwing my thoughts on a page" step.
+# Devs on a boat
+This is intended to be a whitepaper discussing how one could make living in a boat full time and working as a developer a practical possibility.
+
+Please excuse the mess this is in right now! I've very much been in the "throwing my thoughts on a page" step.
 
 Apart from my dissertation I've never written a large document like this, please feel free to make suggestions for how the structure can be improved, especially as this grows.
 
