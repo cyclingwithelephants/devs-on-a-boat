@@ -1,0 +1,14 @@
+\section{Infrastructure}
+
+
+I personally think it would be a crime to \textit{not} have a kubernetes cluster on board. Jokes aside, it's also the perfect solution for a durable, resilient system which I've been professionally trained to use.
+\begin{itemize}
+    \item can operate as a local development environment
+    \item provides Workstation redundancy and durability; in the event of machine failure a new workstation is simply a virtual machine based on an incremental backup away.
+    \item Is a home-server. I do this stuff for fun, I need a playground too!
+    \item provides various services to me such as incremental backups, GPS services, and various others outside of the scope of this paper.
+\end{itemize}
+
+\subsection{Limitations}
+
+There would be a single switch at the heart of any network I would build, I'm not currently aware of a way around this without using 3 switches simultaneously and my current proposed solution is to keep a cold spare available.
