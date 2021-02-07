@@ -7,6 +7,6 @@ I'm more than sure there will be things that are actively wrong and I'd be thril
 This document is written in Latex (pronounced Lay-tek). I'm open to using a different format but chose Latex as it's a common choice for whitepapers and has lots of nice features around referencing, typesetting, and making indexes - amongst other things. Markdown for example just doens't have this rich set of features although it is simpler to work with.
 
 # Building
-I'm using VSCode with (this)[https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop] in case you've never worked with Latex before.
+I'm using VSCode with [this](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) in case you've never worked with Latex before.
 
 At some point I will set up some CI/CD to validate PR's and build a PDF off the master branch and post that somewhere for all to see. Currently one should just render the PDF using your favourite Latex editor.
