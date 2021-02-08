@@ -12,8 +12,9 @@ jobs:
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: 2.7
-        bundler-cache: true
+    - run: gem install bundler
     - run: bundle lock --add-platform x86_64-linux
+    - run: bundle install --path vendor/bundle
     - run: bundle exec jekyll build -V
       env:
         CI: true
