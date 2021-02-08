@@ -8,7 +8,9 @@ This is currently very early days, entire sections are currently missing and wil
 
 # Contributing
 
-To contribute to devs-on-a-boat, fork this repository and clone it to your local. When you're ready, submit a pull request back to the main repo.
+To contribute to devs-on-a-boat, fork this repository and clone it to your local machine. When you're ready, submit a pull request back to the main repo.
 
 You can use a variety of markdown editors to work on this content. Some of the more popular extensions for Visual Studio Code are [listed here](https://code.visualstudio.com/docs/languages/markdown). However, even without an extension, you can press Ctrl-Shift-V to preview changes to a markdown file within VS Code.
+
+This website uses [Jekyll](https://jekyllrb.com/) to build the website, along with the [just-the-docs theme](https://pmarsceill.github.io/just-the-docs/) which incidently contains the documentation on how to use this theme!
 
