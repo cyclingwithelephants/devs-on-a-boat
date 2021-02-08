@@ -4,7 +4,7 @@ layout: default
 title: Considerations
 ---
 
-# Considerations for feasability.
+# Considerations for feasibility.
 -   Getting a boat
 
 -   Maintaining the boat, and living during haul-out
