@@ -21,9 +21,14 @@ durable, resilient system which I've been professionally trained to use.
 -   provides various services to me such as incremental backups, GPS
     services, and various others outside of the scope of this paper.
 
+-   integrates with onboard marine sensors, e.g. with [CANBOAT](https://github.com/canboat/canboat)
+
 ## Limitations
 
 There would be a single switch at the heart of any network I would
 build, I'm not currently aware of a way around this without using 3
 switches simultaneously and my current proposed solution is to keep a
 cold spare available.
+
+It would be wise to procure onboard networking equipment specifically for
+this purpose, as the marine environment is hell on electronics.

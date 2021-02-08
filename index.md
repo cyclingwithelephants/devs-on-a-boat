@@ -11,3 +11,4 @@ nav_order: 1
 A whitepaper approach to engineering a solution enabling the indefinite remote work of a developer on a boat.
 
 A lot of this information would be valuable to any individual who can work exclusively from a computer, but this guide is being made by devs for devs specifically.
+

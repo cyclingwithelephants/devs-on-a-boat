@@ -9,7 +9,7 @@ nav_order: 4
 ## Redundancy
 
 There are several levels at which the power grid must be made redundant
-to ensure redundancy and durability of thegrid itself, these are:
+to ensure redundancy and durability of the grid itself, these are:
 
 -   generation
 

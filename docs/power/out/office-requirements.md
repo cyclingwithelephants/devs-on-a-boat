@@ -45,4 +45,5 @@ idles at around 15 Watts, implying a daily use of 180 Watt hours.
 
 ### Total
 
-In total, as an upper bound the office equipment would require
+In total, as an upper bound the office equipment would require a maximum of 1500 Wh, and
+a predicted average usage of approximately 750 Wh.

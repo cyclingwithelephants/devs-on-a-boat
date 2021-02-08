@@ -16,3 +16,5 @@ fits all solution.
 To achieve high availability at this level we will use two charge
 controllers in parallel, where each is sufficiently sized to handle the
 maximum possible charge in the case that the other were to fail.
+
+And one will fail, at the most inconvenient time possible.
