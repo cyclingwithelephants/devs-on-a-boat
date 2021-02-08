@@ -13,7 +13,7 @@ jobs:
       with:
         ruby-version: 2.7
     - run: gem install bundler
-    - run: bundle lock --add-platform x86_64-linux
+    - run: bundle update
     - run: bundle install --path vendor/bundle
     - run: bundle exec jekyll build -V
       env:
