@@ -5,4 +5,6 @@
 layout: home
 ---
 
-# A whitepaper approach to engineering a solution enabling the indefinite remote work of a developer on a boat.
+# Home
+
+A whitepaper approach to engineering a solution enabling the indefinite remote work of a developer on a boat.
