@@ -4,7 +4,7 @@ on: [push, pull_request]
 
 jobs:
   test:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     steps:
     - uses: actions/checkout@v2.3.4
       with:
@@ -13,7 +13,6 @@ jobs:
       with:
         ruby-version: 2.7
         bundler-cache: true
-    - run: bundle lock --add-platform x86_64-linux
     - run: bundle exec jekyll build -V
       env:
         CI: true
