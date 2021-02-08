@@ -5,10 +5,13 @@ title: Considerations
 ---
 
 # Considerations for feasability.
+-   Getting a boat
 
--   power
+-   Maintaining the boat, and living during haul-out
 
--   internet connectivity
+-   Power
+
+-   Internet connectivity
 
     -   speed
 
@@ -16,14 +19,14 @@ title: Considerations
 
     -   reliability
 
--   worst case scenarios (e.g. key man risks)
+-   Worst case scenarios (e.g. key man risks)
 
--   productivity
+-   Productivity
 
--   compute
+-   Compute
 
--   the first 6 months/year
+-   The first 6 months/year
 
--   hurricanes
+-   Hurricanes
 
--   hot water
+-   Hot water

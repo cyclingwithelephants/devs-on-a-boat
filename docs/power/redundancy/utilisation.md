@@ -8,7 +8,7 @@ nav_order: 4
 ---
 ### Utilisation
 
-Since the vast majority of the boat will be standardised to 12v DC no
+Since the  majority of the boat will be standardised to 12v DC, no
 component is needed to interface the battery bank with any of the
 electronics that utilise it, with the exception of USB C power delivery
 devices as discussed below. Having no component here means it can't

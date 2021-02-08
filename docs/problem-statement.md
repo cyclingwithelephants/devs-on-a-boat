@@ -16,7 +16,7 @@ go for a walk and must endure the constantly worsening air pollution. A
 home will cost me half a million quid, at least. The golden handcuffs of
 a life in tech are quite real.
 
-There's got to be a better way.
+This is the better way.
 
 Boats are normally considered a luxury for the rich and, when you're
 *also* paying for a house on land and a slip in a marina they are. Oh,
@@ -25,9 +25,22 @@ disaster right? It's not that simple, it rarely is.
 
 The reality of the situation is that when you're living on a boat out at anchor you've
 removed the largest monthly expense anyone will likely ever have - rent.
+
 When you consider also that you're generating your own power (in a
 renewable way) the monthly expenses drop considerably. As an example,
 this random guy off the internet cruises at a cost of \$1000 a month on
-boat related expenses. This is *less* than the rent I currently pay for
+boat related expenses. 
+
+This is *less* than the rent I currently pay for
 a house I share with my housemate in West Ham. I've also got to pay for
-bills on top of that. plus there's commuting costs. [@sv-delos-budget].
+bills on top of that. Plus there's commuting costs. [@sv-delos-budget].
+
+On the flip side, there are new costs on the water. Mooring spots and slips cost money,
+whether you're a transient or a permanent liveaboard. Boats require maintenance that
+houses do not, and it's always more expensive. You must haul your boat out of the water
+at least once a year to do annual maintenance (bottom paint, etc.), and you need somewhere
+to live while that's happening - ideally near the boatyard, especially if you're doing your
+own work. Sails need replacing, decks need refurbishing, masts leak, sensors fail - all of this 
+must be accounted for while drawing up the budget.
+
+But you can't put a price on freedom, can you? What's a paycheck for, anyway?
