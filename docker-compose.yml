@@ -4,7 +4,13 @@ services:
       image: jekyll/builder:latest
       environment:
         - JEKYLL_ENV=development
-      command: bundle exec jekyll serve --watch --incremental --config _config-dev.yml --host 0.0.0.0
+      # (for --config) settings in later files override settings in earlier files
+      command: |
+              bundle exec jekyll serve \
+                --watch \
+                --incremental \
+                --config _config.yml,_config-dev.yml \
+                --host 0.0.0.0 \
       ports:
           - 4000:4000
       volumes:
