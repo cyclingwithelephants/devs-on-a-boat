@@ -10,9 +10,9 @@ services:
                 --watch \
                 --incremental \
                 --config _config.yml,_config-dev.yml \
-                --host 0.0.0.0 \
+                --host 0.0.0.0
       ports:
           - 4000:4000
       volumes:
           - .:/srv/jekyll:cached
-          # - ./vendor/bundle:/usr/local/bundle:cached
+          - ./vendor/bundle:/usr/local/bundle:cached
