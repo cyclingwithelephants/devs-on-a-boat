@@ -2,8 +2,6 @@ version: '3'
 services:
   jekyll:
       image: jekyll/builder:latest
-      environment:
-        - JEKYLL_ENV=development
       # (for --config) settings in later files override settings in earlier files
       command: |
               bundle exec jekyll serve \
