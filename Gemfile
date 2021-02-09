@@ -30,6 +30,3 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 
 gem "just-the-docs"
-
-# This allows us to use a bibliography for referencing.
-gem 'jekyll-scholar', group: :jekyll_plugin
