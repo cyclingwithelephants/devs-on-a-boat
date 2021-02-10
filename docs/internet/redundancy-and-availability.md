@@ -14,9 +14,9 @@ I discuss power availability in its own section.
 ### Connection types
 
 Whenever possible I would take advantage of long range wifi, this
-extends up to 7 miles off-shore in perfect conditions but can more
+extends [up to 7 miles off-shore in perfect conditions](http://www.globalmarinenet.com/product/redport-halo-long-range-wifi-extender-system/#specs) but can more
 reasonably be expected to be around half this distance under poor
-conditions [@long-range-wifi]. This will of course provide sufficient
+conditions. This will of course provide sufficient
 internet access, it's an otherwise standard WiFi connection. When this
 is not available I would fallback automatically to a load-balanced 4G
 connection (5G if available).

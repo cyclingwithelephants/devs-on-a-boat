@@ -10,7 +10,7 @@ nav_order: 1
 ## In
 
 The following can be considered reliable sources of power, roughly in order of 
-generating capcity:
+generating capacity:
 
 -   Shore power (110/220VAC), infinite so long as you pay the bills
 

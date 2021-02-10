@@ -15,7 +15,7 @@ still suitable later on.
 Lithium iron phosphate (LiFePO4) batteries for example are generally
 rated to have 80% of their original capacity after 5000 discharge
 cycles, that's a little over 13 years. You'll likely be replacing them
-long before hten.
+long before then.
 
 Solar panels have a much longer lifespan with 90% generation typically
 guaranteed after 10 years, and 80% generation typically guaranteed after

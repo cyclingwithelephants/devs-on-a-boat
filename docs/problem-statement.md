@@ -33,7 +33,7 @@ boat related expenses.
 
 This is *less* than the rent I currently pay for
 a house I share with my housemate in West Ham. I've also got to pay for
-bills on top of that. Plus there's commuting costs. [@sv-delos-budget].
+bills on top of that. Plus there's commuting costs. As an example, the folks at [SV Delos](https://svdelos.com/travel-blogs/afford-sail-part-2-brian/) spend around $1000/month maintaining a 53 foot sailboat.
 
 On the flip side, there are new costs on the water. Mooring spots and slips cost money,
 whether you're a transient or a permanent liveaboard. Boats require maintenance that

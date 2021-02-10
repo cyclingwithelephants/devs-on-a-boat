@@ -19,7 +19,7 @@ battery from the bank and resetting the circuit breaker. In this way we
 will lose 1/Nth maximum current draw, in an identical manner to the
 discussion on solar panels.
 
-n.b. - Nost sailboats already come with separate house/starter battery banks,
+n.b. - Most sailboats already come with separate house/starter battery banks,
 and an accompanying giant switch. Typically you run on house bank, and then
 when it's time to start the engine, you flip the house bank to "all," 
 with the associated possible power blip. Your switch remains on "all," charging
