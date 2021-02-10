@@ -2,15 +2,17 @@ version: '3'
 services:
   jekyll:
       image: jekyll/jekyll:latest
+      # environment: 
+      #   BUNDLE_PATH: /srv/jekyll/vendor/cache
       # (for --config) settings in later files override settings in earlier files
-      command: |
-              bundle exec jekyll serve \
-                --watch \
-                --incremental \
-                --config _config.yml,_config-dev.yml \
-                --host 0.0.0.0
+      command: bash -c "
+                  bundle install ;
+                  bundle exec jekyll serve
+                    --watch
+                    --incremental
+                    --config _config.yml,_config-dev.yml"
       ports:
           - 4000:4000
       volumes:
           - .:/srv/jekyll:cached
-          - ./vendor/bundle:/usr/local/bundle:cached
+          # - ./vendor/bundle:/usr/local/bundle:cached
