@@ -1,5 +1,4 @@
 ---
-bibliography: ../bib.bib
 layout: default
 title: Utilisation
 grand_parent: Power

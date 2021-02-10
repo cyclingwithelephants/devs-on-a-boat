@@ -1,8 +1,6 @@
 ---
-bibliography: ../bib.bib
 layout: default
 title: Ocean Voyages
-# nav_order: 1
 ---
 
 Ocean voyages are a significant undertaking, even with crew. Space, storage, internet and energy requirements are likely to
