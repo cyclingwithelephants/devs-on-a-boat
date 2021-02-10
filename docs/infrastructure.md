@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Infrastructure
+nav_order: 6
 ---
 
 # Infrastructure

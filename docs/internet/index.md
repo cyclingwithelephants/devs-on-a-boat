@@ -3,6 +3,7 @@ bibliography: ../bib.bib
 layout: default
 title: Internet
 has_children: true
+nav_order: 5
 ---
 
 # Internet connectivity

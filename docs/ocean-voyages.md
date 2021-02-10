@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ocean Voyages
+nav_order: 8
 ---
 
 Ocean voyages are a significant undertaking, even with crew. Space, storage, internet and energy requirements are likely to

@@ -3,6 +3,7 @@ bibliography: ../bib.bib
 layout: default
 title: Power
 has_children: true
+nav_order: 4
 ---
 
 # Power
