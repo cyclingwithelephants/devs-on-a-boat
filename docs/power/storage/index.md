@@ -1,10 +1,7 @@
 ---
-bibliography: ../bib.bib
 layout: default
 title: Storage
 parent: Power
-# has_children: true
-nav_order: 2
 ---
 
 ## Power Storage

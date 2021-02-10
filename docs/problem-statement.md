@@ -1,5 +1,4 @@
 ---
-bibliography: ../bib.bib
 layout: default
 title: Problem Statement
 nav_order: 2
