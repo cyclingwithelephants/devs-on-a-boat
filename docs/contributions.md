@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contributions
-nav_order: 10
+nav_order: 11
 ---
 
 We welcome contributions from anybody. Contributions are and will always remain [free as in freedom](https://www.gnu.org/philosophy/free-sw.en.html#:~:text=Thus%2C%20%E2%80%9Cfree%20software%E2%80%9D%20is,mean%20the%20software%20is%20gratis.).
