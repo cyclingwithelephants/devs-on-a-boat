@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The First Year
+nav_order: 9
 ---
 
 # The First Year

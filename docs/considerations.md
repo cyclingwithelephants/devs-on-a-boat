@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Considerations
+nav_order: 3
 ---
 
 # Considerations for feasibility.

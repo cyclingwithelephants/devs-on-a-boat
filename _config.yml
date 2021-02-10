@@ -33,7 +33,6 @@ url: "https://floatingdevs.com" # the base hostname & protocol for your site, e.
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
-  # - jekyll-scholar
   - jekyll-seo-tag
 
 # Exclude from processing.
