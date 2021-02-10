@@ -14,7 +14,7 @@ You can use a variety of markdown editors to work on this content. Some of the m
 
 This website uses [Jekyll](https://jekyllrb.com/) to build the website, along with the [just-the-docs theme](https://pmarsceill.github.io/just-the-docs/) which incidently contains the documentation on how to use this theme!
 
-### Local development
+## Local development
 In order to run a local development server without polluting your local machine with dependencies please follow instructions in the snippet below. This will expose a local version of the website at http://localhost:4000 which you can visit with your favourite browser.
 
 The container will constantly watch for source code updates so there's no need to do anything once you'd stood up the development server.
