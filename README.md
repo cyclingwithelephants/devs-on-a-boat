@@ -17,7 +17,7 @@ This website uses [Jekyll](https://jekyllrb.com/) to build the website, along wi
 ## Local development
 In order to run a local development server without polluting your local machine with dependencies please follow instructions in the snippet below. This will expose a local version of the website at http://localhost:4000 which you can visit with your favourite browser.
 
-The container will constantly watch for source code updates so there's no need to do anything once you'd stood up the development server except refresh your browser
+The container will constantly watch for source code updates so there's no need to do anything once you'd stood up the development server.
 
 Since the container downloads all project specific dependencies at runtime it can take 10-15 seconds before the service will become available.
 
