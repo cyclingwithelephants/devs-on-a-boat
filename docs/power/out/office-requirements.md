@@ -5,44 +5,44 @@ grand_parent: Power
 parent: Out
 ---
 
-## Office power
+# Office power
 
 My work-from-home set up currently consists of a macbook driving two 4k
 27-inch monitors, with an external mouse and keyboard with a standing
-desk. I will be replicating this set up in the boat. Not compromising on
+desk. I will be replicating this set up in the boat (I'm still figuring out the standing desk!). Not compromising on
 a workstation is absolutely non-negotiable for me and I discuss my
 workstation twice, here where I talk about the power requirements and
-below in the logistics section.
+further in the logistics section.
 
-I will assume that the equipment involved will be used for 12 hours a
-day to simulate a particularly busy day, and perhaps with an outage that
-must be attended to outside of normal working hours.
+## Monitors
+1080p and 4k monitors differ greatly in power usage, it's up to you whether or not you want to take on the extra cost/electrical burden for 4k monitors.
 
-### Monitors
+### Assumptions:
+- We assume a 10 hour work day, this tries to factor in time spent at the computer that isn't work related. If you're likely to spend less/more time then you should adjust accordingly.
+- Power draw is taken directly from the manufacturer's spec sheet.
 
-Each monitor draws 24 Watts nominally, with a peak power draw of 80W.
-Having installed a kill-a-watt I am unsure how this 80 Watt figure was
-reached since I couldn't replicate such a high draw under any
-circumstances. The highest I could achieve was 42 Watts and as such will
-use that figure. Two monitors drawing 42 Watts each for an extended
-period of 12 hours would consume a total of 1008 Watt hours. At a
-nominal draw this would consume a total of 576 Watt hours.
+|           Model          | Typical draw <br />(Watts) | Peak draw <br />(Watts) | Daily typical usage <br />(Watt hours) | Daily maximum usage  <br />(Watt hours)                        |
+|:------------------------:|:--------------------------:|:-----------------------:|:--------------------------------------:|:--------------------------------------------------------------:|
+| BenQ GW2780 (1080p, 27") |             18             |            32           |                   180                  |                               320                              |
+|  BenQ PD2700U (4k, 27")  |             30             |            80           |                   300                  |                               800                              |
 
-### Laptop
+## Laptop
+Not everybody is lucky enough to be able to choose their own work laptop, as such I would suggest choosing an upper limit similar to that of the 16" MBP to ensure that you're covered. Below are some user supplied power usages for various machines. I haven't got any linux laptops to measure as of yet. If you _are_ a lucky individual, I'd recommend using a 13 inch laptop if you can due to energy usage and portability - this may not be appropriate for e.g. Rust/C++ devs however. I've been doing so since August and have no regrets.
 
-I have to make some assumptions about computer hardware since I will not
-be in control of what I get, so I will assume an upper bound and behave
-accordingly. A 2020 Intel based 16-inch Macbook pro has a peak power
-draw of  40 Watts, and is the most power hungry Macbook that's currently
-available. Similarly to the monitors it does not reach this 40 Watt load
-unless it is working at 100%. As an upper limit, 40 Watts for 12 hours
-of use gives a total daily power usage of 480 Watt hours, this is far
-above what I would expect in actuality, since such a machine typically
-idles at around 15 Watts, implying a daily use of 180 Watt hours.
+### Assumptions:
 
-### Networking
+- We assume a 10 hour work day, this tries to factor in time spent at the computer that isn't work related. If you're likely to spend less/more time then you should adjust accordingly.
+- Peak power draw has been taken from the maximum power delivered by the manufacturer's power supply. Actual results might be higher or lower. For example the 16" MBP has reports of being able to 
+discharge the battery faster than it can be charged when being used at 100% CPU and 100% GPU but this is quite exceptional.
+- Typical draw values are user supplied.
 
-### Total
+|       Model       | Typical draw <br />(Watts) | Peak draw <br />(Watts) | Daily typical usage <br />(Watt hours) | Daily maximum usage  <br />(Watt hours) |
+|:-----------------:|:--------------------------:|:-----------------------:|:--------------------------------------:|:--------------------------------------------------------------:|
+| 13" i5 MBP (2019) |            12.5            |            60           |                   125                  |                               600                              |
+| 16" i9 MBP (2020) |            15-20           |           100           |                   175                  |                               1000                             |
+<!-- | 13" i5 MBP (2020) |       To be measured       |            60           |             To be measured             |                               600                              | -->
 
-In total, as an upper bound the office equipment would require a maximum of 1500 Wh, and
-a predicted average usage of approximately 750 Wh.
+
+## Networking
+
+## Total
