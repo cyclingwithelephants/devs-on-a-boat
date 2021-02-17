@@ -25,6 +25,6 @@ generating capacity:
 
 -   Emergency diesel generator
 
--   Towable (hydrogenerators)[https://www.sailmagazine.com/diy/know-how-hydro-generators]
+-   Towable [hydrogenerators](https://www.sailmagazine.com/diy/know-how-hydro-generators)
 
 When calculating power usage, remember that all of these systems convert down to 12VDC (really 13.8) to charge the house & starter battery banks, and require an inverter to produce AC power (110VAC or 220VAC, as you like)
