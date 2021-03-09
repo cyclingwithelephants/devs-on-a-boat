@@ -1,16 +1,15 @@
 version: '3'
 services:
   jekyll:
-      image: jekyll/jekyll:latest
+      image: marmiteforlife/devs-on-a-boat:latest
       # (for --config) settings in later files override settings in earlier files
       # (for --force_polling) this is required to make the live reload option work https://github.com/BretFisher/jekyll-serve/issues/14
       command:  bash -c "
-                  bundle install ;
-                  bundle exec jekyll serve
-                    --watch
-                    --drafts
-                    --force_polling
-                    --config _config.yml,_config-dev.yml"
+                bundle exec jekyll serve
+                  --watch
+                  --drafts
+                  --force_polling
+                  --config _config.yml,_config-dev.yml"
       ports:
           - 4000:4000
           - 35729:35729
