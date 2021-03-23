@@ -26,13 +26,7 @@ The reality of the situation is that when you're living on a boat out at anchor 
 removed the largest monthly expense anyone will likely ever have - rent.
 
 When you consider also that you're generating your own power (in a
-renewable way) the monthly expenses drop considerably. As an example,
-this random guy off the internet cruises at a cost of \$1000 a month on
-boat related expenses. 
-
-This is *less* than the rent I currently pay for
-a house I share with my housemate in West Ham. I've also got to pay for
-bills on top of that. Plus there's commuting costs. As an example, the folks at [SV Delos](https://svdelos.com/travel-blogs/afford-sail-part-2-brian/) spend around $1000/month maintaining a 53 foot sailboat.
+renewable way) the monthly expenses drop considerably. As an example,the folks at [SV Delos](https://svdelos.com/travel-blogs/afford-sail-part-2-brian/) spend around $1000/month maintaining a 53 foot sailboat.
 
 On the flip side, there are new costs on the water. Mooring spots and slips cost money,
 whether you're a transient or a permanent liveaboard. Boats require maintenance that
