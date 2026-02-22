@@ -6,6 +6,8 @@ Can be viewed online at [floatingdevs.com](https://floatingdevs.com)
 
 This is currently very early days, entire sections are currently missing and will be filled in as I can get to them.
 
+I've been a bit of a lazy bum and haven't added to this in years :)
+
 # Contributing
 
 To contribute to devs-on-a-boat, fork this repository and clone it to your local machine. When you're ready, submit a pull request back to the main repo.
