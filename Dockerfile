@@ -1,4 +1,4 @@
-FROM jekyll/jekyll:4.2.2
+FROM jekyll/jekyll:4.4.1
 
 WORKDIR /srv/jekyll
 
